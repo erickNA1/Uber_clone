@@ -23,7 +23,7 @@ const SearchScreen = (props) => {
                         textInput: styles.textInput,
                     }}
                     query={{
-                        key: 'AIzaSyARebOMMqJHc4vaZiZPfHatfk4RWSGaAWM',
+                        key: '',
                         language: 'en',
                     }}
                     
@@ -40,7 +40,7 @@ const SearchScreen = (props) => {
                         textInput: styles.textInput,
                     }}
                     query={{
-                        key: 'AIzaSyARebOMMqJHc4vaZiZPfHatfk4RWSGaAWM',
+                        key: '',
                         language: 'en',
                     }}
                 />
